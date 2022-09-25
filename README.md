@@ -7,7 +7,7 @@ A simple Analog Gauge Reader from the Gauge images using python3 and OpenCV libr
 ## How to run
 1. Select the image of analog gauge  
 For example, image file: 4.jpg  
-![image file](images/4.jpg){:height="50px" width="50px"}
+<img src="https://img.youtube.com/vi/H1TVl9GDR1k/images/4.jpg" width="100" height="100">
 2. Run the python, and input some questions  
 ![How to run python](https://github.com/yaseralie/Analog_Gauge_Images_Reader/blob/main/Run.JPG?raw=true)
 ## Youtube Video
