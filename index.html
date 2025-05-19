@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Thank You for Visiting!</title>
+  <meta http-equiv="refresh" content="8;url=https://github.com/yaseralie/Analog_Gauge_Images_Reader/tree/main/codes" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+      background-color: #f0f0f0;
+    }
+    button {
+      padding: 12px 24px;
+      font-size: 16px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Thank you for visiting!</h1>
+  <p>Click the button below to open YouTube and subscribe.</p>
+  <p><strong>If you see a popup blocked message, please allow popups for this site.</strong></p>
+  <button onclick="openYoutube()">Open YouTube Now</button>
+
+  <script>
+    function openYoutube() {
+      const newTab = window.open("https://www.youtube.com/@YaserAliHusen?sub_confirmation=1", "_blank");
+      if (!newTab || newTab.closed || typeof newTab.closed == 'undefined') {
+        alert("Popup was blocked! Please allow popups for this site.");
+      }
+    }
+
+    // Try to open automatically after 2 seconds
+    setTimeout(() => {
+      openYoutube();
+    }, 3000);
+  </script>
+
+  <p>You will be redirected to the download page shortly...</p>
+</body>
+</html>
