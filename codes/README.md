@@ -14,3 +14,11 @@ For example, image file: 4.jpg
 [![Watch the video](https://img.youtube.com/vi/H1TVl9GDR1k/default.jpg)](https://youtu.be/H1TVl9GDR1k)
 ## Reference
 https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/analog-gauge-reader
+
+## ☕ Support My Work
+If you find this project useful, consider supporting my work:  
+- [Donate $3](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=yaseralie@gmail.com&item_name=Support+My+Tech+Projects&currency_code=USD&amount=3)
+- [Donate $5](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=yaseralie@gmail.com&item_name=Support+My+Tech+Projects&currency_code=USD&amount=5)
+- [Donate Custom Amount](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=yaseralie@gmail.com&item_name=Support+My+Tech+Projects&currency_code=USD)
+
+Thank you for helping me keep sharing! 🚀
